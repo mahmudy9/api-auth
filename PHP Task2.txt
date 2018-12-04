@@ -1,0 +1,13 @@
+Please make the following task using laravel (latest build):
+
+
+1-login api with mobile number and password.
+
+
+2-register a new account using mobile number, password, username (use mobily.ws sms gateway to send sms to verify mobile number).
+
+3-Create API for getting profile data.
+
+4-Make an admin panel with CRUD for users registered by api.
+
+5- registration and login must use JWT.
